@@ -6,7 +6,7 @@ for the wide variety of formats Chronic will parse.
 
 ## Installation
 
-```
+```´´´
 $ gem install chronic
 ```
 
